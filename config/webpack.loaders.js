@@ -150,4 +150,4 @@ const videos = {
     ],
 };
 
-module.exports = [html, css, sass, less, images, fonts, videos];
+module.exports = [html, sass, images, fonts, videos];
