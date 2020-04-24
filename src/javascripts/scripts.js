@@ -1,1 +1,3 @@
-// Add your scripts here
+document.addEventListener("DOMContentLoaded", function (event) {
+    console.log("ready");
+});
