@@ -1,2 +1,13 @@
 // Load CSS Reset from NPM
-@import "~normalize.css"
+@import "~normalize.css";
+
+#root {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#image {
+    border: 1px solid green;
+}
